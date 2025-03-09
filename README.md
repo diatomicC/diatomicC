@@ -14,3 +14,5 @@
   - Love Content creating 
 
 Let's build something insane together! 🚀 (If u bring something fun then I'll sell it with contents)
+
+Sub account: https://github.com/juheehur
