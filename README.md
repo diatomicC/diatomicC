@@ -15,4 +15,5 @@
 
 Let's build something insane together! 🚀 (If u bring something fun then I'll sell it with contents)
 
+Codes made with AI brainrots (Cursor, GPT) are HERE
 Sub account: https://github.com/juheehur
