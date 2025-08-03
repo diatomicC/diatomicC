@@ -17,3 +17,6 @@ Let's build something insane together! 🚀 (If u bring something fun then I'll 
 
 Codes made with AI brainrots (Cursor, GPT) are HERE
 Sub account: https://github.com/juheehur
+
+Recent works:
+[Uploading Juhee Hur - Applied Computer Vision Internship Portfolio (2025).pdf…]()
