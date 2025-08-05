@@ -1,7 +1,4 @@
-👋 Hi, I'm Juhee Hur - HACKATHON ADDICT 🏃‍♀️💨
-- 🔭 Currently building ScanEat (AND SURPRISINGLY IM NOT DEV) - a multilingual restaurant discovery platform that's going to revolutionize how we find awesome food spots 🌎
-- 🌱 Learning: AI/ML (because who isn't?), Flutter for lightning-fast MVPs, and operations research to optimize my 3AM coding sessions 🤓
-- 🤔 Need help brainstorming AI-powered app ideas that could win the next hackathon (and maybe become the next unicorn? 🦄)
+👋 Hi, I'm Juhee Hur - HACKATHON ADDICT 🏃‍♀
 - 💬 Ask me about:
   - My dream
 
@@ -12,8 +9,6 @@
   - Zetamac score 90 (I tried for 2 yrs)
   - Sudoku easy mode 30 secs
   - Love Content creating 
-
-Let's build something insane together! 🚀 (If u bring something fun then I'll sell it with contents)
 
 Codes made with AI brainrots (Cursor, GPT) are HERE
 Sub account: https://github.com/juheehur
